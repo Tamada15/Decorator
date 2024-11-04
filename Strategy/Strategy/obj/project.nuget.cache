@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nbQHd0ux0tQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\voron\\OneDrive\\Рабочий стол\\Decorator\\Strategy\\Strategy\\Strategy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\voron\\.nuget\\packages\\microsoft.vcrtforwarders.140\\1.0.6\\microsoft.vcrtforwarders.140.1.0.6.nupkg.sha512",
+    "C:\\Users\\voron\\.nuget\\packages\\microsoft.web.webview2\\1.0.2849.39\\microsoft.web.webview2.1.0.2849.39.nupkg.sha512",
+    "C:\\Users\\voron\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
