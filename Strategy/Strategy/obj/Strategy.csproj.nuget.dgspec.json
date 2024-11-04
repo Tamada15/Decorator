@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\voron\\OneDrive\\Рабочий стол\\Decorator\\Strategy\\Strategy\\Strategy.csproj": {}
+    "X:\\C#Two\\Strategy\\Strategy\\Strategy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\voron\\OneDrive\\Рабочий стол\\Decorator\\Strategy\\Strategy\\Strategy.csproj": {
+    "X:\\C#Two\\Strategy\\Strategy\\Strategy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\voron\\OneDrive\\Рабочий стол\\Decorator\\Strategy\\Strategy\\Strategy.csproj",
+        "projectUniqueName": "X:\\C#Two\\Strategy\\Strategy\\Strategy.csproj",
         "projectName": "Strategy",
-        "projectPath": "C:\\Users\\voron\\OneDrive\\Рабочий стол\\Decorator\\Strategy\\Strategy\\Strategy.csproj",
+        "projectPath": "X:\\C#Two\\Strategy\\Strategy\\Strategy.csproj",
         "packagesPath": "C:\\Users\\voron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\voron\\OneDrive\\Рабочий стол\\Decorator\\Strategy\\Strategy\\obj\\",
+        "outputPath": "X:\\C#Two\\Strategy\\Strategy\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -43,9 +43,9 @@
       "frameworks": {
         "net48": {
           "dependencies": {
-            "Microsoft.VCRTForwarders.140": {
+            "Microsoft.CodeAnalysis.CSharp": {
               "target": "Package",
-              "version": "[1.0.6, )"
+              "version": "[4.11.0, )"
             },
             "Microsoft.Web.WebView2": {
               "target": "Package",
@@ -55,12 +55,7 @@
               "target": "Package",
               "version": "[13.0.3, )"
             }
-          },
-          "imports": [
-            "uap10.0.18362"
-          ],
-          "assetTargetFallback": true,
-          "warn": true
+          }
         }
       },
       "runtimes": {

@@ -1,7 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "X:\\C#\\Decorator\\Strategy\\",
-  "Documents": [],
+  "WorkspaceRootPath": "X:\\C#Two\\Strategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Strategy||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F00859-32BC-4439-9535-C35442F88E55}|Strategy\\Strategy.csproj|x:\\c#two\\strategy\\strategy\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{41F00859-32BC-4439-9535-C35442F88E55}|Strategy\\Strategy.csproj|solutionrelative:strategy\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 623,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +30,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Strategy",
+              "DocumentMoniker": "X:\\C#Two\\Strategy\\Strategy\\Strategy.csproj",
+              "RelativeDocumentMoniker": "Strategy\\Strategy.csproj",
+              "ToolTip": "X:\\C#Two\\Strategy\\Strategy\\Strategy.csproj",
+              "RelativeToolTip": "Strategy\\Strategy.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T12:21:39.982Z",
+              "EditorCaption": ""
             }
           ]
         },
